@@ -30,5 +30,5 @@ spec:
   }
   triggers {
     pollSCM('* * * * *')
-  } 
+   }
 }
